@@ -1,0 +1,10 @@
+# Some example packages
+pandas
+numpy
+seaborn
+
+# Testing packages
+pytest
+
+# Formatter
+black
